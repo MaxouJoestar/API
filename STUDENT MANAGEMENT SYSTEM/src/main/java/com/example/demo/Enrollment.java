@@ -1,12 +1,9 @@
 package com.example.demo;
 
-public class Enrollment{
-    private String studentName;
-    private String courseCode;
+public class Enrollment {
     private Student student;
     private Course course;
 
-    
     public Enrollment(Student student, Course course) {
         this.student = student;
         this.course = course;
@@ -16,20 +13,19 @@ public class Enrollment{
         course.enrollStudent(student);
     }
 
-    public String getStudentName() {
-        return studentName;
+    public Student getStudent() {
+        return student;
     }
 
-    public void setStudentName(String studentName) {
-        this.studentName = studentName;
+    public void setStudent(Student student) {
+        this.student = student;
     }
 
-    public String getCourseCode() {
-        return courseCode;
+    public Course getCourse() {
+        return course;
     }
 
-    public void setCourseCode(String courseCode) {
-        this.courseCode = courseCode;
+    public void setCourse(Course course) {
+        this.course = course;
     }
-
 }

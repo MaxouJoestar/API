@@ -1,1 +1,9 @@
-/home/maxoupc/Bureau/demo/src/main/java/com/example/demo/DemoApplication.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/API.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/Course.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/DemoApplication.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/Enrollment.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/EnrollmentRequest.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/GraduateStudent.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/Person.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/Student.java
+/home/maxoupc/API-1/STUDENT MANAGEMENT SYSTEM/src/main/java/com/example/demo/UndergraduateStudent.java

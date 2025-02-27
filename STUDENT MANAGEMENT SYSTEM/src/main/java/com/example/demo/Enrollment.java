@@ -1,4 +1,4 @@
-import models.Course; 
+package com.example.demo;
 
 public class Enrollment {
     private Student student; 
@@ -9,11 +9,22 @@ public class Enrollment {
         this.course = course;
     }
     
+    public void register() {
+        course.enrollStudent(student);
+    }
+    
     public Student getStudent() {
         return student;
     }
+    public void setStudent(Student student) {
+        this.student = student;
+    }
+
 
     public Course getCourse() {
         return course;
+    }
+    public void setCourse(Course course) {
+        this.course = course;
     }
 }

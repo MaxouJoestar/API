@@ -24,9 +24,11 @@ public class Course {
         return students;
     }
 
-    
-    public String getcourseCode() {
+    public String getCourseCode() {
         return courseCode;
     }
 
+    public void setCourseCode(String courseCode) {
+        this.courseCode = courseCode;
+    }
 }
